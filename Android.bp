@@ -6,7 +6,9 @@ soong_namespace {
     imports: [
         "device/motorola/sdm660-common",
         "hardware/motorola",
-        "hardware/qcom-caf/msm8998",
+        "hardware/qcom-caf/sdm660",
+        "vendor/qcom/opensource/commonsys/display",
+        "vendor/qcom/opensource/display",
         "hardware/qcom-caf/wlan",
         "vendor/qcom/opensource/dataservices",
     ],
