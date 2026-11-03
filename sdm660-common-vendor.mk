@@ -119,7 +119,6 @@ PRODUCT_PACKAGES += \
     libq3dtools_adreno \
     libq3dtools_esx \
     vendor.qti.hardware.iop@2.0-impl \
-    vulkan.sdm660 \
     lib-imsSDP \
     lib-imscmservice \
     lib-imsdpl \
