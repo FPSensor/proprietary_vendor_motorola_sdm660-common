@@ -1325,6 +1325,7 @@
 
    <!-- SDM660 parameters -->
    <listitem name = "Starlord">
+      <data name="rtm_rmnet_data_enabled" type="int"> 1 </data>
 
       <data name="qmi_dpm_enabled" type="int"> 1 </data>
       <data name="use_qmuxd" type="int"> 0 </data>
@@ -1424,6 +1425,7 @@
 
    <!-- SDM630 parameters -->
    <listitem name = "Starhawk">
+      <data name="rtm_rmnet_data_enabled" type="int"> 1 </data>
 
       <data name="qmi_dpm_enabled" type="int"> 1 </data>
       <data name="use_qmuxd" type="int"> 0 </data>
